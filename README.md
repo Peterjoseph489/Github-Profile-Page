@@ -27,5 +27,3 @@ Thanks for stopping by! Explore my repositories, and feel free to reach out if y
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peterjoseph489&show_icons=true&count_private=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=Peterjoseph489)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Peterjoseph489)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Peterjoseph489)

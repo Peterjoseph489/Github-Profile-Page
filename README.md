@@ -24,3 +24,8 @@ If you found my work helpful or just want to chat over a virtual coffee, you can
 Did you know? I'm a firm believer that code can change the world, one line at a time.
 
 Thanks for stopping by! Explore my repositories, and feel free to reach out if you have any questions or exciting projects to work on together. 😄
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peterjoseph489&show_icons=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Peterjoseph489)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Peterjoseph489)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Peterjoseph489)

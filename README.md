@@ -1,4 +1,4 @@
-# Hi 👋, I'm Divine Olokor
+# Hi 👋, I'm Peter Joseph
 
 A software engineer specializing primarily in backend services and also learning blockchain technologies.
 

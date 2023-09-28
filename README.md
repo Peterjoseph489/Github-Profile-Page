@@ -2,9 +2,14 @@
 
 A software engineer specializing primarily in backend services and also learning blockchain technologies.
 
-My primary stack is Node.js, JavaScript, TypeScript, MongoDb, and MySQL.
+My primary stack includes:
 
-📫 How to reach me [LinkedIn](https://www.linkedin.com/in/peter-joseph-07805b220)
+- Node.js
+- JavaScript
+- TypeScript
+- MongoDB
+- MySQL
 
-⚡ Fun fact: You can buy me a cup of coffee [here](08100335322)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peter-joseph-07805b220)
 
+⚡ Fun fact: You can buy me a cup of coffee [here](tel:08100335322)

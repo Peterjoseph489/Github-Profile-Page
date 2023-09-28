@@ -26,4 +26,4 @@ Did you know? I'm a firm believer that code can change the world, one line at a 
 Thanks for stopping by! Explore my repositories, and feel free to reach out if you have any questions or exciting projects to work on together. 😄
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peterjoseph489&show_icons=true&count_private=true)
-![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Peterjoseph489)
+

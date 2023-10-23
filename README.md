@@ -11,3 +11,5 @@ Here's a glimpse of the technologies I love to work with:
 - 📦 **Databases:** MongoDB, MySQL
 - 🌟 **Blockchain:** Learning and experimenting with blockchain technologies
 
+🔗 **Portfolio:** [Check out my portfolio](https://vercel.com/joseph-peters-projects/joseph)
+

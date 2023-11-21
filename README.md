@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 Here's a glimpse of the technologies I love to work with:
 
 - 💻 **Backend Development:** Node.js, Express.js
-- 🌐 **Web Development:** JavaScript, TypeScript
+- 🎨 **Frontend Styling:** React, Tailwind CSS, Bootstrap
+- 🌐 **Web Development:** MERN - JavaScript, TypeScript
 - 📦 **Databases:** MongoDB, MySQL
 - 🌟 **Blockchain:** Learning and experimenting with blockchain technologies
 

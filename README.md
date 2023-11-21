@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Peter Joseph
+<h1 style="color:#6b47ff;">Hi there! 👋 I'm Peter Joseph</h1>
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on building robust backend services. I'm also exploring the exciting world of blockchain technologies.
 
